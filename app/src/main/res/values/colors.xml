@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="TextViewColor">#F8A2D5C6</color>
+    <color name="EqualBtnColor">#9EEA96</color>
+    <color name="numColor">#F4C296</color>
+    <color name="textColor">#057BB1</color>
+    <color name="OpColor">#EA9696</color>
+    <color name="OpTextColor">#B3201B</color>
+    <color name="EqualsTextColor">#056009</color>
+</resources>
